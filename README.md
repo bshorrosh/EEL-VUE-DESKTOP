@@ -36,4 +36,4 @@ npm run eel:deploy
 
 ## A Screenshot Of The "Graph" Page
 
-![](./graph_page.png)
+![](./web/graph_page.png)
