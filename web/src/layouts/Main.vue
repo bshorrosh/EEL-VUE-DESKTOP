@@ -41,18 +41,22 @@
         width: 100%;
         height: 100%;
     }
+
     .header {
         padding: 80px;
         text-align: center;
         background: #1abc9c;
         color: white;
     }
+
     .header h1 {
         font-size: 40px;
     }
+
     .header p {
         font-size: 30px;
     }
+
     .navbar {
         overflow: hidden;
         background-color: #333;
@@ -125,16 +129,19 @@
         margin-right: auto;
     }
 
+    .bk-root {
+        width: 800px !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     @media screen and (max-width: 700px) {
         .row {
             flex-direction: column;
         }
     }
-.bk-root{
-    width:800px !important;
-    margin-left:auto;
-    margin-right: auto;
-}
+
+
     @media screen and (max-width: 400px) {
         .navbar a {
             float: none;

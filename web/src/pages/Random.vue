@@ -44,8 +44,9 @@
         margin-top: 50px;
         font-size: 50px;
     }
-    .random .calling-script{
+
+    .random .calling-script {
         text-align: center;
-        font-size:25px;
+        font-size: 25px;
     }
 </style>
