@@ -1,7 +1,7 @@
 # Python/JavaScript Desktop Application Based On EELJS & VUEJS
 
 >  A simple desktop application that uses EEL.JS to enable two-way communication between
-VUE.JS (front-end) and python (back-end).
+JavaScript (front-end) and Python (back-end).
 
 <br/>
 
