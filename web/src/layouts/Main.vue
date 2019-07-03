@@ -130,7 +130,11 @@
             flex-direction: column;
         }
     }
-
+.bk-root{
+    width:800px !important;
+    margin-left:auto;
+    margin-right: auto;
+}
     @media screen and (max-width: 400px) {
         .navbar a {
             float: none;

@@ -130,7 +130,3 @@ def get_graph_via_python():
 
 def get_random_via_python():
     return random.random()
-
-
-class Data:
-    pass
