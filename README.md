@@ -16,9 +16,14 @@ This sample leverages the following projects:
 ## Build Setup
     
 ``` bash
-After changing the command prompt to the web directory:
+# cd to the root directory
+# activate your virtualenv
+# run the following
+pip install -r requirements.txt
 
-# make the following executable
+# cd to the web directory and run the following:
+
+# make executable
 chmod +x ./deploy.sh
 chmod +x ./build.sh
 
