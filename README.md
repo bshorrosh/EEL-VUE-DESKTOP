@@ -6,8 +6,8 @@ VUE.JS (front-end) and python (back-end).
 <br/>
 
 This sample leverages the following projects:
->[Vue 2.0 Simple Routing Example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/)<br/>
 >[https://github.com/ChrisKnott/Eel](https://github.com/ChrisKnott/Eel)<br/>
+>[Vue 2.0 Simple Routing Example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/)<br/>
 >[https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html](https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html)<br/>
 >[https://www.w3schools.com/howto/howto_js_sticky_header.asp](https://www.w3schools.com/howto/howto_js_sticky_header.asp)
 
