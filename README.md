@@ -5,6 +5,11 @@ JavaScript (front-end) and Python (back-end).
 
 <br/>
 
+ Python Version: 3.6.8
+> Enables deployment with PyInstaller
+
+<br/>
+
 This sample leverages the following projects:
 >[https://github.com/ChrisKnott/Eel](https://github.com/ChrisKnott/Eel)<br/>
 >[https://github.com/chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/)<br/>
@@ -14,7 +19,6 @@ This sample leverages the following projects:
 <br/>
 
 ## Build Setup
-    
 ``` bash
 # cd to the root directory
 # activate your virtualenv
@@ -33,7 +37,7 @@ npm install
 # build the application
 npm run eel:build
 
-# build for production
+# build for production  
 npm run eel:deploy
 ```
 
