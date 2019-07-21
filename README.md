@@ -1,6 +1,6 @@
 # Python/JavaScript Desktop Application Based On EEL.JS & VUE.JS
 
->  A simple desktop application that uses EEL.JS to enable two-way communication between
+>  Electron-like desktop application based on EEL.JS to enable two-way communication between
 JavaScript (front-end) and Python (back-end).
 
 <br/>
