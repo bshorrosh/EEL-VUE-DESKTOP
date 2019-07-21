@@ -10,7 +10,7 @@
 <br/>
 
 This sample leverages the following projects:
->[https://github.com/zeekay/bottle-websocket](https://github.com/zeekay/bottle-websocket)
+>[https://github.com/zeekay/bottle-websocket](https://github.com/zeekay/bottle-websocket)<br/>
 >[https://github.com/ChrisKnott/Eel](https://github.com/ChrisKnott/Eel)<br/>
 >[https://github.com/chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/)<br/>
 >[https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html](https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html)<br/>
