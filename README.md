@@ -1,7 +1,6 @@
 # Python/JavaScript Desktop Application Based On EEL.JS & VUE.JS
 
->  Electron-like desktop application based on EEL.JS to enable two-way communication between
-JavaScript (front-end) and Python (back-end).
+> Electron-like desktop application based on EEL.JS, which leverages bottle, bottle-websocket (based on gevent and gevent-websoket) to enable two-way communication between JavaScript (front-end) and Python (back-end).
 
 <br/>
 
@@ -11,6 +10,7 @@ JavaScript (front-end) and Python (back-end).
 <br/>
 
 This sample leverages the following projects:
+>[https://github.com/zeekay/bottle-websocket](https://github.com/zeekay/bottle-websocket)
 >[https://github.com/ChrisKnott/Eel](https://github.com/ChrisKnott/Eel)<br/>
 >[https://github.com/chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/)<br/>
 >[https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html](https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html)<br/>
