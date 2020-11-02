@@ -1,0 +1,10 @@
+
+.idea/
+
+server/venv/bin/__pycache__/
+
+server/venv/
+
+web/package-lock.json
+
+server/__pycache__/
