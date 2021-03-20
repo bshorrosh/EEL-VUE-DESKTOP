@@ -8,7 +8,7 @@ future==0.17.1
 gevent==1.4.0
 gevent-websocket==0.10.1
 greenlet==0.4.15
-Jinja2==2.10.1
+Jinja2==2.11.3
 macholib==1.11
 MarkupSafe==1.1.1
 numpy==1.16.4
