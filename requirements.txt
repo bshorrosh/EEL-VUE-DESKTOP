@@ -1,6 +1,6 @@
 altgraph==0.16.1
 bokeh==1.2.0
-bottle==0.12.17
+bottle==0.12.19
 bottle-websocket==0.2.9
 certifi==2019.6.16
 Eel==0.10.4
